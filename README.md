@@ -1,37 +1,23 @@
-# Solutions Engineering Template Repository
-A template repository that contains all required files (LICENSE, SUPPORT, CONTRIBUTING, etc) as outlined in the org standards.  
-
-
-The sections below are recommended in your project's README.md file. 
-
 ## Overview
-Provide a short overview of the project.
+This python script will monitor several levels of DNS services for consistency and is intended to be used as a tool when upgrading or troubleshooting BIG-IP DNS (GTM).
 
 ## Getting Started
-Provide a quick example of how to use your code.  This should provide the user with a launch point to quickly see what the project can offer them. 
-
-## Installation
-Outline the requirements and steps to install this project. 
-
-## Usage
-Outline how the user can use your project and the various features the project offers. 
+Simply copy/paste or download the gslb_dns_monitor.py file and modify the values found in the **Variables** section of the script. You may add additional items to a ny list.
 
 ## Development
-Outline any requirements to setup a development environment if someone would like to contribute.  You may also link to another file for this information. 
+If you'd like to improve this script, please fork the repository and create a pull request with your additions. Alternatively, ideas can be submitted by creating a Github issue. 
 
 ## Support
-For support, please open a GitHub issue.  Note, the code in this repository is community supported and is not supported by F5 Networks.  For a complete list of supported projects please reference [SUPPORT.md](SUPPORT.md).
+For support, please open a GitHub issue.  Note, the code in this repository is community supported and is not supported by F5.
 
 ## Community Code of Conduct
 Please refer to the [F5 DevCentral Community Code of Conduct](code_of_conduct.md).
-
 
 ## License
 [Apache License 2.0](LICENSE)
 
 ## Copyright
-Copyright 2014-2020 F5 Networks Inc.
-
+Copyright 2014-2021 F5 Networks Inc.
 
 ### F5 Networks Contributor License Agreement
 
